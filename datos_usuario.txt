@@ -1,1 +1,2 @@
 Lautaro=lauta
+model name	: AMD Ryzen 5 1600 Six-Core Processor            
